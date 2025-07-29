@@ -1,0 +1,14 @@
+nltk
+markdown2
+tkhtmlview
+Pillow
+pygame
+yt-dlp
+requests
+feedparser
+ipython
+beautifulsoup4
+StackAPI
+deep-translator
+PyDictionary
+wikipedia
