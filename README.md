@@ -22,6 +22,10 @@ It combines chat from a local Large Language Model (LLM) (via [Ollama](https://o
 - **Automatic Conversation History**
 - **One-click Chat Reset:** "Refresh Chat" button for quick conversation reset
 
+## 🖼️ Demo
+
+- ![Demo Screenshot](screenshots/demo.png)
+  
 ## 📦 Installation
 
 1. **Clone the repository:**
@@ -132,9 +136,9 @@ pip install -r requirements.txt
 
 ## 📧 Contact
 
-- **Project Author:** [YOUR NAME](mailto:youremail@example.com)
-- **GitHub:** [https://github.com/YOUR_USERNAME/querysynth](https://github.com/YOUR_USERNAME/querysynth)
-- **Issues:** Use the [GitHub Issues page](https://github.com/YOUR_USERNAME/querysynth/issues)
+- **Project Author:** [Aadityaamlan Panda](mailto:aadityaap22@iitk.ac.in)
+- **GitHub:** [https://github.com/Aadityaamlan-Panda/QuerySynth](https://github.com/Aadityaamlan-Panda/QuerySynth)
+- **Issues:** Use the [GitHub Issues page](https://github.com/Aadityaamlan-Panda/QuerySynth/issues)
 
 ## 📝 License
 
